@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="left_arrow">\u2190</string>
+    <string name="up_arrow">\u2191</string>
+    <string name="down_arrow">\u2193</string>
+    <string name="right_arrow">\u2192</string>
+    <string name="title">简单计算器</string>
+    <string name="cancel">CE</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="clear">C</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="dot">.</string>
+    <string name="countBackwards">1/X</string>
+    <string name="percent">%</string>
+    <string name="equal">=</string>
+</resources>
